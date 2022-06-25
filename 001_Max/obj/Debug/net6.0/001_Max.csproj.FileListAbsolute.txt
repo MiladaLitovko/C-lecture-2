@@ -1,0 +1,15 @@
+D:\C lecture 2\001_Max\bin\Debug\net6.0\001_Max.exe
+D:\C lecture 2\001_Max\bin\Debug\net6.0\001_Max.deps.json
+D:\C lecture 2\001_Max\bin\Debug\net6.0\001_Max.runtimeconfig.json
+D:\C lecture 2\001_Max\bin\Debug\net6.0\001_Max.dll
+D:\C lecture 2\001_Max\bin\Debug\net6.0\001_Max.pdb
+D:\C lecture 2\001_Max\obj\Debug\net6.0\001_Max.csproj.AssemblyReference.cache
+D:\C lecture 2\001_Max\obj\Debug\net6.0\001_Max.GeneratedMSBuildEditorConfig.editorconfig
+D:\C lecture 2\001_Max\obj\Debug\net6.0\001_Max.AssemblyInfoInputs.cache
+D:\C lecture 2\001_Max\obj\Debug\net6.0\001_Max.AssemblyInfo.cs
+D:\C lecture 2\001_Max\obj\Debug\net6.0\001_Max.csproj.CoreCompileInputs.cache
+D:\C lecture 2\001_Max\obj\Debug\net6.0\001_Max.dll
+D:\C lecture 2\001_Max\obj\Debug\net6.0\refint\001_Max.dll
+D:\C lecture 2\001_Max\obj\Debug\net6.0\001_Max.pdb
+D:\C lecture 2\001_Max\obj\Debug\net6.0\001_Max.genruntimeconfig.cache
+D:\C lecture 2\001_Max\obj\Debug\net6.0\ref\001_Max.dll
