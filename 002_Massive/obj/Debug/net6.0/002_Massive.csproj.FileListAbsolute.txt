@@ -1,0 +1,15 @@
+D:\C lecture 2\002_Massive\bin\Debug\net6.0\002_Massive.exe
+D:\C lecture 2\002_Massive\bin\Debug\net6.0\002_Massive.deps.json
+D:\C lecture 2\002_Massive\bin\Debug\net6.0\002_Massive.runtimeconfig.json
+D:\C lecture 2\002_Massive\bin\Debug\net6.0\002_Massive.dll
+D:\C lecture 2\002_Massive\bin\Debug\net6.0\002_Massive.pdb
+D:\C lecture 2\002_Massive\obj\Debug\net6.0\002_Massive.csproj.AssemblyReference.cache
+D:\C lecture 2\002_Massive\obj\Debug\net6.0\002_Massive.GeneratedMSBuildEditorConfig.editorconfig
+D:\C lecture 2\002_Massive\obj\Debug\net6.0\002_Massive.AssemblyInfoInputs.cache
+D:\C lecture 2\002_Massive\obj\Debug\net6.0\002_Massive.AssemblyInfo.cs
+D:\C lecture 2\002_Massive\obj\Debug\net6.0\002_Massive.csproj.CoreCompileInputs.cache
+D:\C lecture 2\002_Massive\obj\Debug\net6.0\002_Massive.dll
+D:\C lecture 2\002_Massive\obj\Debug\net6.0\refint\002_Massive.dll
+D:\C lecture 2\002_Massive\obj\Debug\net6.0\002_Massive.pdb
+D:\C lecture 2\002_Massive\obj\Debug\net6.0\002_Massive.genruntimeconfig.cache
+D:\C lecture 2\002_Massive\obj\Debug\net6.0\ref\002_Massive.dll
