@@ -1,0 +1,15 @@
+D:\C#\C lecture 2,3,4\lecture4_3\obj\Debug\net6.0\lecture4_3.csproj.AssemblyReference.cache
+D:\C#\C lecture 2,3,4\lecture4_3\obj\Debug\net6.0\lecture4_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C lecture 2,3,4\lecture4_3\obj\Debug\net6.0\lecture4_3.AssemblyInfoInputs.cache
+D:\C#\C lecture 2,3,4\lecture4_3\obj\Debug\net6.0\lecture4_3.AssemblyInfo.cs
+D:\C#\C lecture 2,3,4\lecture4_3\obj\Debug\net6.0\lecture4_3.csproj.CoreCompileInputs.cache
+D:\C#\C lecture 2,3,4\lecture4_3\bin\Debug\net6.0\lecture4_3.exe
+D:\C#\C lecture 2,3,4\lecture4_3\bin\Debug\net6.0\lecture4_3.deps.json
+D:\C#\C lecture 2,3,4\lecture4_3\bin\Debug\net6.0\lecture4_3.runtimeconfig.json
+D:\C#\C lecture 2,3,4\lecture4_3\bin\Debug\net6.0\lecture4_3.dll
+D:\C#\C lecture 2,3,4\lecture4_3\bin\Debug\net6.0\lecture4_3.pdb
+D:\C#\C lecture 2,3,4\lecture4_3\obj\Debug\net6.0\lecture4_3.dll
+D:\C#\C lecture 2,3,4\lecture4_3\obj\Debug\net6.0\refint\lecture4_3.dll
+D:\C#\C lecture 2,3,4\lecture4_3\obj\Debug\net6.0\lecture4_3.pdb
+D:\C#\C lecture 2,3,4\lecture4_3\obj\Debug\net6.0\lecture4_3.genruntimeconfig.cache
+D:\C#\C lecture 2,3,4\lecture4_3\obj\Debug\net6.0\ref\lecture4_3.dll
